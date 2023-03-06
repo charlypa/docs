@@ -3,7 +3,7 @@ description: Phoenix Documentation
 theme: just-the-docs
 logo: "/assets/images/phoenix app logo.svg"
 
-color_scheme: dark
+#color_scheme: dark
 url: https://just-the-docs.github.io
 
 aux_links:
